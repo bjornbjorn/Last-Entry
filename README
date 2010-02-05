@@ -1,0 +1,10 @@
+Last Entry for EE 1.6.8
+=======================
+
+Get the last entry date from one or more weblogs.
+
+Usage:
+
+{exp:last_entry weblogs="default_site|my_second_weblog" format="%Y-%m-%d"}
+
+If you'd like to find future entries as well add "allow_future_entries='yes'" to the syntax above.
